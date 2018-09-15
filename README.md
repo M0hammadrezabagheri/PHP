@@ -1,2 +1,2 @@
 # PHP
-CODE php for sent emaail
+PHP code to send emails.
